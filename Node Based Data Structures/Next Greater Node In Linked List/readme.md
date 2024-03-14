@@ -11,8 +11,8 @@ Return an integer array answer where answer[i] is the value of the next greater 
 
 ### Example 1:
 
-```![linkedlistnext1](https://github.com/bhavana-15/Competitive-Programming/assets/157963061/b49b81dd-0455-420c-992d-015461d75cc0)
-
+[linkedlistnext1](https://github.com/bhavana-15/Competitive-Programming/assets/157963061/b49b81dd-0455-420c-992d-015461d75cc0)
+```
 Input: head = [2,1,5]
 Output: [5,5,0]
 ```
