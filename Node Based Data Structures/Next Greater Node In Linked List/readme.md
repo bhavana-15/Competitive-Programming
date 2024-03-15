@@ -11,7 +11,7 @@ Return an integer array answer where answer[i] is the value of the next greater 
 
 ### Example 1:
 
-!https://assets.leetcode.com/uploads/2021/08/05/linkedlistnext1.jpg
+https://assets.leetcode.com/uploads/2021/08/05/linkedlistnext1.jpg
 ```
 Input: head = [2,1,5]
 Output: [5,5,0]
