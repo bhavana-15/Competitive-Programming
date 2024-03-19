@@ -9,6 +9,7 @@ Return the head of the modified linked list.
  
 
 ### Example 1:
+![ex1-1](https://github.com/bhavana-15/Competitive-Programming/assets/157963061/c44ab7bb-ff60-4ec2-8a0c-28889b985f03)
 
 ```
 Input: head = [0,3,1,0,4,5,2,0]
@@ -20,6 +21,7 @@ The above figure represents the given linked list. The modified list contains
 - The sum of the nodes marked in red: 4 + 5 + 2 = 11.
   
 ### Example 2:
+![ex2-1](https://github.com/bhavana-15/Competitive-Programming/assets/157963061/2432f105-1d81-497c-b6bd-0a8bc59fdc04)
 
 ```
 Input: head = [0,1,0,3,0,2,2,0]
