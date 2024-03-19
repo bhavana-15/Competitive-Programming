@@ -10,8 +10,9 @@ Return an integer array answer where answer[i] is the value of the next greater 
  
 
 ### Example 1:
+![linkedlistnext1](https://github.com/bhavana-15/Competitive-Programming/assets/157963061/a41da98a-0531-4b39-8624-cef44311bbae)
 
-https://assets.leetcode.com/uploads/2021/08/05/linkedlistnext1.jpg
+
 ```
 Input: head = [2,1,5]
 Output: [5,5,0]
@@ -24,7 +25,7 @@ Input: head = [2,7,4,3,5]
 Output: [7,0,5,5,0]
  
 ```
-**Constraints:**
+**constraints:**
 
 The number of nodes in the list is n.
 1 <= n <= 104
