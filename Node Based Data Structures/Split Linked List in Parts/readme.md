@@ -12,8 +12,7 @@ Return an array of the k parts.
  
 
 ### Example 1:
-
-https://assets.leetcode.com/uploads/2021/06/13/split1-lc.jpg
+![split1-lc](https://github.com/bhavana-15/Competitive-Programming/assets/157963061/c3791190-3cab-44f5-b298-62ba0a0a958b)
 ```
 Input: head = [1,2,3], k = 5
 Output: [[1],[2],[3],[],[]]
@@ -23,7 +22,7 @@ The first element output[0] has output[0].val = 1, output[0].next = null.
 The last element output[4] is null, but its string representation as a ListNode is [].
 
 ### Example 2:
-https://assets.leetcode.com/uploads/2021/06/13/split2-lc.jpg
+![split2-lc](https://github.com/bhavana-15/Competitive-Programming/assets/157963061/9013602d-2de4-4759-bf81-46c888ea542a)
 
 ```
 Input: head = [1,2,3,4,5,6,7,8,9,10], k = 3
