@@ -1,6 +1,5 @@
 # Split Linked List in Parts
 
-**Hint**
 Given the head of a singly linked list and an integer k, split the linked list into k consecutive linked list parts.
 
 The length of each part should be as equal as possible: no two parts should have a size differing by more than one. This may lead to some parts being null.
